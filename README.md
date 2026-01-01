@@ -17,7 +17,7 @@ Seeking SDE/Web Intern roles where I can ship reliable systems and learn from pr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aditya-prabhakar-13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

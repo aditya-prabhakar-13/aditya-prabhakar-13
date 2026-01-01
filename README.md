@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a sophomore at Indian Institute of Technology Guwahati<br>I have made several web dev projects (Frontend + Backend)<br>I like to do Competitive Programming on Codeforces<br>I am currently learning Express JS and Next JS<br>I have done an sde intern at AYUSH Upchar and looking for more opportunities<br>
+Results-driven engineering student at IIT Guwahati with hands-on experience building and deploying full-stack web applications used by real users. <br>
+Strong in Python, JavaScript, Django, and frontend performance optimization with a focus on scalable, clean backend design. <br>
+Seeking SDE/Web Intern roles where I can ship reliable systems and learn from production-grade engineering teams. <br>
 
 
 ## 🌐 Socials:
